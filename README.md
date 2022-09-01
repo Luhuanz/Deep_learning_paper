@@ -30,8 +30,11 @@
 - **YOLOv2**: [YOLO9000: Better, Faster, Stronger](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf)  [论文笔记](https://pan.baidu.com/s/1m5ibFM1hMxF9TayASRIs_Q?pwd=3032 ) 
 - **YOLOv3**：[An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)   [论文笔记](https://www.aliyundrive.com/s/eMYw2UxVsbp)
 - **FPN**：[Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)   [中文翻译](http://noahsnail.com/2018/03/20/2018-03-20-Feature%20Pyramid%20Networks%20for%20Object%20Detection%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)  [论文笔记](https://pan.baidu.com/s/128ZTrleRu8BqVbW-5QZF4Q?pwd=3032) **pytorch   tensorflow**
+- **RetinaNet**：**[Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)**  [论文笔记](https://pan.baidu.com/s/1jQcF-q3fmcopiHiq2ouhSg?pwd=3032)
 
  
+
+****
 
 ##  Semantic segmentation
 
