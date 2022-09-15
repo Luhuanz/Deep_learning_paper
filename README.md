@@ -17,6 +17,7 @@
 - **MnasNet**: [**Platform-Aware Neural Architecture Search for Mobile**](https://arxiv.org/pdf/1904.02216.pdf)  **[论文笔记](https://www.aliyundrive.com/s/KGG9fBCgS2T )**
 - **SeNet**:[Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
 - **DenseNet**： [**Densely Connected Convolutional Networks**](https://arxiv.org/pdf/1608.06993.pdf) [论文笔记](https://www.aliyundrive.com/s/UNphzMSyxzo )
+- **EfficientNet: [Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)**  [论文笔记](https://pan.baidu.com/s/1biuIcR9EEiGjB70sz7svVA?pwd=3032 )
 
  
 
