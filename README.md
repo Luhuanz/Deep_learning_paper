@@ -38,6 +38,8 @@
 
 - **YOLOv4**:[Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)  [中文翻译](https://pan.baidu.com/s/17OKNHqKcNkZWLZuhFXmb2A?pwd=3032)  [论文笔记](https://pan.baidu.com/s/1N_ZjPP7-s_j3Wr6M6HQBtw?pwd=3032)
 
+- **YOLOv5: [笔记](https://pan.baidu.com/s/1MSuv0WbbnKZ2A8tx30uBEA?pwd=3032)**
+
 - **FPN**：[Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)   [中文翻译](http://noahsnail.com/2018/03/20/2018-03-20-Feature%20Pyramid%20Networks%20for%20Object%20Detection%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)  [论文笔记](https://pan.baidu.com/s/128ZTrleRu8BqVbW-5QZF4Q?pwd=3032) **pytorch   tensorflow**
 
 - **RetinaNet**：**[Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)**  [论文笔记](https://pan.baidu.com/s/1jQcF-q3fmcopiHiq2ouhSg?pwd=3032)
@@ -46,7 +48,7 @@
 
 - **EfficientDet: [Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)** [论文笔记](https://pan.baidu.com/s/1sKJsu4sXQfHO9O3_MzyExA?pwd=3032) 
 
-  
+   
 
  
 
