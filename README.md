@@ -46,6 +46,8 @@
 
 - **Mask rcnn**:[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) [论文笔记](https://pan.baidu.com/s/1JIRc6ZYzmcE7IuDa_MRGdw?pwd=3032)
 
+- **M2Det**: [A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network](https://arxiv.org/pdf/1811.04533.pdf) [论文笔记](https://pan.baidu.com/s/1sUb9OiiKXZ8tC4iifWDUWQ?pwd=3032)
+
 - **EfficientDet: [Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)** [论文笔记](https://pan.baidu.com/s/1sKJsu4sXQfHO9O3_MzyExA?pwd=3032) 
 
    
