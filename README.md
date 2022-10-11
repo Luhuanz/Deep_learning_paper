@@ -8,6 +8,7 @@
 
 - **BP**:[backprop_old](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)  [论文笔记](https://pan.baidu.com/s/1NIycmIlvPB0Lcp74H119sg?pwd=3032 )
 - **ZFNet**：[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)  [中文版](https://blog.csdn.net/Jwenxue/article/details/107848873)     [论文笔记](https://pan.baidu.com/s/1HtToAqRqsYh6QMzJUwU36Q?pwd=3032 )     pytorch    tensorflow
+- **VGG**：[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf) [论文笔记](https://pan.baidu.com/s/1DOaQ66lUgq96WvTYeME9wg?pwd=3032)
 - **GoogleNet** :[Going Deeper with Convolutions](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)   [中文版]( http://noahsnail.com/2017/07/21/2017-07-21-GoogleNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)   [论文笔记](https://pan.baidu.com/s/18MwvBXqPS0X_B5gi2-VdEQ?pwd=3032 ) pytorch   tensorflow
 - **NiN** ： [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)    [笔记](https://www.aliyundrive.com/s/Ko7ntVxrPVt)
 - **ResNet**：[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) [中文版](http://noahsnail.com/2017/07/31/2017-07-31-ResNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)    [论文笔记](https://pan.baidu.com/s/1JHerWkuVLidmHK-Z-QKDFA?pwd=3032 )    pytorch   tensorflow
@@ -18,6 +19,8 @@
 - **SeNet**:[Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
 - **DenseNet**： [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) [论文笔记](https://www.aliyundrive.com/s/UNphzMSyxzo )
 - **EfficientNet**: [Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)  [论文笔记](https://pan.baidu.com/s/1biuIcR9EEiGjB70sz7svVA?pwd=3032 )
+
+ 
 
  
 
