@@ -121,9 +121,14 @@
 
 - **Transformer**: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
 - **ViT**：[AN IMAGE IS WORTH 16X16 WORDS:  TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)   [中文版](https://blog.csdn.net/sinat_38974831/article/details/119531138) [论文笔记](https://www.aliyundrive.com/s/Sx2UGBoeX4x)   pytorch
-- **PVT**:  [A Versatile Backbone for Dense Prediction without Convolutions](https://arxiv.org/pdf/2102.12122.pdf)   [论文笔记 ](https://www.aliyundrive.com/s/RCzAN6X2Sz1)  pytorch 
+- **T2T**:  [Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/pdf/2101.11986.pdf) [论文笔记](https://pan.baidu.com/s/1gqY8gOLX9oSItAqkoHMk6g?pwd=3032 )   [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/transformer/T2T)
+- **BotNet**: [Bottleneck Transformers for Visual Recognition](https://arxiv.org/pdf/2101.11605.pdf) [论文笔记](https://pan.baidu.com/s/1JHtLut19mvDOqa0VsQevWw?pwd=3032)  [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/transformer/BottleneckTransformers/BottleneckTransformers-main)
+- **MAE** : [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377.pdf) [论文笔记](https://pan.baidu.com/s/1h0TdK2dUGkw-SO_85OVm7w?pwd=3032 )  pytorch
+-  **PVT**:  [A Versatile Backbone for Dense Prediction without Convolutions](https://arxiv.org/pdf/2102.12122.pdf)   [论文笔记 ](https://www.aliyundrive.com/s/RCzAN6X2Sz1)  pytorch 
 - **swin-Transfromer**:[Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) [论文笔记](https://pan.baidu.com/s/1w2_0sRpNeCppG1Xo7_GvnA?pwd=3032 ) pytorch
 - **Deit**:[Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf)  [论文笔记](https://pan.baidu.com/s/1TtA-B4d8AVlnnP3dSVJrhg?pwd=3032)pytorch
+
+  
 
 ## GAN
 
