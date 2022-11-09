@@ -136,10 +136,20 @@
 - **pix2pix**: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)  [论文笔记](https://pan.baidu.com/s/1MtCfBOhjeVtDC2KTnAwqIg?pwd=3032 )
 - **CycleGAN**: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)   [论文笔记](https://www.aliyundrive.com/s/B2LV82q7jfo)
 
+
+
+##  Graph
+
+- **node2vec**: [Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)   [论文笔记](https://pan.baidu.com/s/130k64FmSuZYoVRhpOg9u8Q?pwd=3032)  [pytorch](https://pan.baidu.com/s/1BUsUKz0m_YGlFfWgjU_ecw?pwd=3032)
+- **LINE**: [Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf) [论文笔记](https://pan.baidu.com/s/17o9j_XIU0u9SU1Bbp9mSkQ?pwd=3032 )  [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/graph/LINE)
+- **SDNE**: [Structural Deep Network Embedding](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)  [论文笔记](https://pan.baidu.com/s/1Qni10kD__J-L1yrQURbp2Q?pwd=3032 )
+
+ 
+
  
 
 ######  关于
 
-读研后更代码
+记录学习中
 
  
