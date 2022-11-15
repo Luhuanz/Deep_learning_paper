@@ -63,9 +63,9 @@
 
 ##  Semantic segmentation
 
-- ##### **FCN**：[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)  [中文版](https://www.cnblogs.com/xuanxufeng/p/6249834.html)  [论文笔记](https://pan.baidu.com/s/17IPWC0gZeqM16Xpp0Av1NQ?pwd=0000 )  pytorch   tensorflow
+- **FCN**：[Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)  [中文版](https://www.cnblogs.com/xuanxufeng/p/6249834.html)  [论文笔记](https://pan.baidu.com/s/17IPWC0gZeqM16Xpp0Av1NQ?pwd=0000 )  pytorch   tensorflow
 
--  **DeconvNet**：[Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/pdf/1505.04366.pdf) [论文笔记](https://pan.baidu.com/s/1uIHifepO8RtvTLZJQjIKOA?pwd=3032 ) pytorch   tensorflow
+- **DeconvNet**：[Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/pdf/1505.04366.pdf) [论文笔记](https://pan.baidu.com/s/1uIHifepO8RtvTLZJQjIKOA?pwd=3032 ) pytorch   tensorflow
 
 - **U-Net**：[Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) [中文版](http://noahsnail.com/2019/05/13/2019-05-13-U-Net-Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/) [论文笔记](https://pan.baidu.com/s/1GrcO4mQYaMZj8n4UYsOMrw?pwd=3032 ) pytorch   tensorflow
 
@@ -83,7 +83,7 @@
 
 - **DeepLabv3 plus**：[Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://pan.baidu.com/s/1eZrIMO92QIgoRImDxExUsw?pwd=3032)   [论文笔记](https://pan.baidu.com/s/17Eb_VD1MGjQaSVKVDIMUyg?pwd=3032)
 
--  **GCN**: [Large Kernel Matters ——Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/pdf/1703.02719.pdf)  [论文笔记](https://pan.baidu.com/s/14ecMQgR1Q1_4ND1jQK1L6g?pwd=3032)
+- **GCN**: [Large Kernel Matters ——Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/pdf/1703.02719.pdf)  [论文笔记](https://pan.baidu.com/s/14ecMQgR1Q1_4ND1jQK1L6g?pwd=3032)
 
 - **ExFuse**：[Enhancing Feature Fusion for Semantic Segmentation](https://arxiv.org/pdf/1804.03821.pdf)
 
@@ -155,6 +155,6 @@
 
 ######  关于
 
-记录学习中
+学习可能是一个不断进步的过程，个人感受来讲，读完100篇左右AI经典论文会对深度学习有了个大概的认识。同时上述已经整理了2020年前CV经典方向的论文，希望能够让后来的大家更容易的学习。或许是学习数学的缘故，我对于深度学习的未来不那么有信心，它的不可解释性，令我感到烦躁。今后可能不在记录，原因在于我要放下这些去追寻的本真的爱好——数学。
 
  
