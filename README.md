@@ -33,6 +33,8 @@
 
 - **Faster R-CNN**:[Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)  [中文版](http://noahsnail.com/2018/01/03/2018-01-03-Faster%20R-CNN%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)  [论文笔记](https://pan.baidu.com/s/1Y8-q80JqlT-ODb3SVmM4Rg?pwd=3032 ) pytorch
 
+- **Cascade R-CNN**:[Cascade R-CNN: Delving into High Quality Object Detection](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1712.00726.pdf#=&zoom=page-width)  [论文笔记](https://pan.baidu.com/s/1rdgQGT9fxJOQSEnBs4C1nA?pwd=3032 )
+
 - **YOLOv1**：[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)  [论文笔记](https://pan.baidu.com/s/1JnYXoz4-RDkVVTCCOimxXA?pwd=3032)
 
 - **YOLOv2**: [YOLO9000: Better, Faster, Stronger](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf)  [论文笔记](https://pan.baidu.com/s/1m5ibFM1hMxF9TayASRIs_Q?pwd=3032 ) 
