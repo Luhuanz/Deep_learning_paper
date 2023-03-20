@@ -57,9 +57,9 @@
 
 - **EfficientDet: [Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)** [论文笔记](https://pan.baidu.com/s/1sKJsu4sXQfHO9O3_MzyExA?pwd=3032) 
 
-   
+-  **Cascade RCNN-RS**：[Simple Training Strategies and Model Scaling for Object Detection](https://arxiv.org/abs/2107.00057) [论文笔记](https://pan.baidu.com/s/1mxGVVOe4AEUkKnKRX1QVOw?pwd=3032 )
 
- 
+  
 
 ****
 
