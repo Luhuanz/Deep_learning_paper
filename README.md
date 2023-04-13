@@ -28,38 +28,23 @@
 ## Object Detection
 
 - **R-CNN**:[Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)  [中文版](https://blog.csdn.net/v1_vivian/article/details/78599229)  [论文笔记]( https://pan.baidu.com/s/1CcFOzmLA_y0t4RuGIk3ytg?pwd=3032 ) 
-
 - **Fast-R-CNN**: [Fast R-CNN - The Computer Vision Foundation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) [中文版](https://alvin.red/2017/10/10/fast-r-cnn/)  [论文笔记](https://pan.baidu.com/s/1hOrWylxX2gucxuVNXl86tA?pwd=0000 )   pytorch   tensorflow
-
 - **Faster R-CNN**:[Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)  [中文版](http://noahsnail.com/2018/01/03/2018-01-03-Faster%20R-CNN%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)  [论文笔记](https://pan.baidu.com/s/1Y8-q80JqlT-ODb3SVmM4Rg?pwd=3032 ) pytorch
-
 - **Cascade R-CNN**:[Cascade R-CNN: Delving into High Quality Object Detection](https://arxiv.org/abs/1712.00726)  [论文笔记](https://pan.baidu.com/s/1rdgQGT9fxJOQSEnBs4C1nA?pwd=3032 )
-
 - **YOLOv1**：[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)  [论文笔记](https://pan.baidu.com/s/1JnYXoz4-RDkVVTCCOimxXA?pwd=3032)
-
 - **YOLOv2**: [YOLO9000: Better, Faster, Stronger](https://openaccess.thecvf.com/content_cvpr_2017/papers/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.pdf)  [论文笔记](https://pan.baidu.com/s/1m5ibFM1hMxF9TayASRIs_Q?pwd=3032 ) 
-
 - **YOLOv3**：[An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)   [论文笔记](https://www.aliyundrive.com/s/eMYw2UxVsbp)
-
 - **YOLOv4**:[Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)  [中文翻译](https://pan.baidu.com/s/17OKNHqKcNkZWLZuhFXmb2A?pwd=3032)  [论文笔记](https://pan.baidu.com/s/1N_ZjPP7-s_j3Wr6M6HQBtw?pwd=3032)
-
 - **YOLOv5**: [笔记](https://pan.baidu.com/s/1MSuv0WbbnKZ2A8tx30uBEA?pwd=3032)
+- **PPYOLOE**：[PP-YOLOE: An evolved version of YOLO](https://arxiv.org/abs/2203.16250)  [论文笔记](https://pan.baidu.com/s/1g-Au4F9_vDhoBUB5w2LCMQ?pwd=3032 )
 
 - **FPN**：[Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)   [中文翻译](http://noahsnail.com/2018/03/20/2018-03-20-Feature%20Pyramid%20Networks%20for%20Object%20Detection%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)  [论文笔记](https://pan.baidu.com/s/128ZTrleRu8BqVbW-5QZF4Q?pwd=3032) pytorch   tensorflow
-
 - **RetinaNet**：[Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)  [论文笔记](https://pan.baidu.com/s/1jQcF-q3fmcopiHiq2ouhSg?pwd=3032)
-
 - **FCOS**: [Fully Convolutional One-Stage Object Detection](https://arxiv.org/pdf/1904.01355.pdf) [论文笔记](https://pan.baidu.com/s/15f_I6UDIUwnFRXEUB58ZXg?pwd=3032)
-
 - **Mask rcnn**:[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf) [论文笔记](https://pan.baidu.com/s/1JIRc6ZYzmcE7IuDa_MRGdw?pwd=3032)
-
 - **M2Det**: [A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network](https://arxiv.org/pdf/1811.04533.pdf) [论文笔记](https://pan.baidu.com/s/1sUb9OiiKXZ8tC4iifWDUWQ?pwd=3032)
-
 - **EfficientDet: [Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)** [论文笔记](https://pan.baidu.com/s/1sKJsu4sXQfHO9O3_MzyExA?pwd=3032) 
-
 -  **Cascade RCNN-RS**：[Simple Training Strategies and Model Scaling for Object Detection](https://arxiv.org/abs/2107.00057) [论文笔记](https://pan.baidu.com/s/1mxGVVOe4AEUkKnKRX1QVOw?pwd=3032 )
-
-  
 
 ****
 
