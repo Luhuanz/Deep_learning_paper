@@ -118,7 +118,7 @@
 
 ## GAN
 
-- **GAN**：[Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)  [论文笔记]( https://pan.baidu.com/s/11bjmVFPCIrBhYpCyRLa7rw?pwd=3032 )
+- **GAN**：[Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)  [论文笔记]( https://pan.baidu.com/s/11bjmVFPCIrBhYpCyRLa7rw?pwd=3032 )  [pytorch](https://pan.baidu.com/s/1I8P2gAB7849CWD0vAyavtg?pwd=3032)
 - **pix2pix**: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004.pdf)  [论文笔记](https://pan.baidu.com/s/1MtCfBOhjeVtDC2KTnAwqIg?pwd=3032 )
 - **CycleGAN**: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)   [论文笔记](https://www.aliyundrive.com/s/B2LV82q7jfo)
 
