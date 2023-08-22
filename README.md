@@ -134,7 +134,7 @@
 
 - **metapath2vec**: [Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) [论文笔记](https://pan.baidu.com/s/1oqEMVZw_yLhbOm8ChjQcBg?pwd=3032 )  [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/graph)
 
-  
+#a   
 
  
 
