@@ -127,18 +127,16 @@
 ##  Graph
 
 - **node2vec**: [Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)   [论文笔记](https://pan.baidu.com/s/130k64FmSuZYoVRhpOg9u8Q?pwd=3032)  [pytorch](https://pan.baidu.com/s/1BUsUKz0m_YGlFfWgjU_ecw?pwd=3032)
-
 - **LINE**: [Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf) [论文笔记](https://pan.baidu.com/s/17o9j_XIU0u9SU1Bbp9mSkQ?pwd=3032 )  [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/graph/LINE)
-
 - **SDNE**: [Structural Deep Network Embedding](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)  [论文笔记 ](https://pan.baidu.com/s/1Qni10kD__J-L1yrQURbp2Q?pwd=3032 )  [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/graph)
-
 - **metapath2vec**: [Scalable Representation Learning for Heterogeneous Networks](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) [论文笔记](https://pan.baidu.com/s/1oqEMVZw_yLhbOm8ChjQcBg?pwd=3032 )  [pytorch](https://github.com/Luhuanz/pytorch_project/tree/main/graph)
-
-#a   
+- **Graph neural networks**: [A review of methods and applications](https://arxiv.org/abs/1812.08434)   [论文笔记](https://pan.baidu.com/s/1H_mr4OuqmGbJd9yOsMWY_g?pwd=3032 )
 
  
 
+ 
 
+ 
 
 ######  关于
- 
+
